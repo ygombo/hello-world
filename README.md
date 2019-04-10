@@ -1,2 +1,5 @@
 # hello-world
-The very first trial repository 
+
+This is a test for the new branch by making changes in the branch of readme-edits.
+
+Hello world!
